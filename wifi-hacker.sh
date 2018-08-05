@@ -9,7 +9,7 @@
 # WiFi Hacker v2
 # hatakecnk 2018
 
-# https://github.com/hatakecnk/xNot_Found
+# https://github.com/hatakecnk/H4T4K3CNK
 
 # Uses parts of the aircrack-ng suite, reaver, wifite, and many other tools
 
